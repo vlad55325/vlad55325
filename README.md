@@ -1,16 +1,38 @@
-## Hi there 👋
+##👋  Cześć, jestem Vlad
 
-<!--
-**vlad55325/vlad55325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Junior Data Analyst | AI Assistant Builder | Python & SQL Enthusiast  
+💡 Interesuję się analizą danych, sztuczną inteligencją i automatyzacją.  
+🔥 Wychodzę z gastro, celuję w tech. Buduję, uczę się, działam.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+## 💼 Moje umiejętności:
+- 📊 Excel, Power BI, SQL, Pandas, NumPy
+- 📈 Wizualizacja: Seaborn, Matplotlib, Plotly
+- 🤖 Machine Learning: Scikit-learn, TensorFlow, ChatGPT API
+- 🛠️ Git, GitHub, Jupyter, Python
+
+---
+
+## 🔧 Projekty:
+
+| Projekt | Opis | Stack |
+|--------|------|-------|
+ 🔎 Analiza danych sprzedaży (soon)
+ 🤖 AI CSV Analizator (soon)
+ 📊 Power BI Dashboard (soon)]
+
+---
+
+## 🧠 Aktualnie uczę się:
+- Machine Learning
+- Budowania portfolio pod rekrutację
+- Łączenia AI z analizą danych
+
+---
+
+## 📬 Kontakt:
+- 📧 vladoliynyk2@gmail.com
+- 🌐 LinkedIn - https://linkedin.com/in/vladoliinyk21
