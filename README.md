@@ -2,7 +2,7 @@
 
 🎯 Junior Data Analyst | AI Assistant Builder | Python & SQL Enthusiast  
 💡 Interesuję się analizą danych, sztuczną inteligencją i automatyzacją.  
-🔥 Wychodzę z gastro, celuję w tech. Buduję, uczę się, działam.
+🔥 Celuję w tech. Buduję, uczę się, działam.
 
 
 ---
