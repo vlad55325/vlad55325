@@ -1,11 +1,11 @@
-##👋  Cześć, jestem Vlad
+#👋  Cześć, jestem Vlad
 
 🎯 Junior Data Analyst | AI Assistant Builder | Python & SQL Enthusiast  
 💡 Interesuję się analizą danych, sztuczną inteligencją i automatyzacją.  
 🔥 Celuję w tech. Buduję, uczę się, działam.
 
-
 ---
+
 
 
 ## 💼 Moje umiejętności:
@@ -14,7 +14,10 @@
 - 🤖 Machine Learning: Scikit-learn, TensorFlow, ChatGPT API
 - 🛠️ Git, GitHub, Jupyter, Python
 
+
 ---
+
+
 
 ## 🔧 Projekty:
 
@@ -24,14 +27,18 @@
  🤖 AI CSV Analizator (soon)
  📊 Power BI Dashboard (soon)]
 
+
 ---
+
 
 ## 🧠 Aktualnie uczę się:
 - Machine Learning
 - Budowania portfolio pod rekrutację
 - Łączenia AI z analizą danych
 
+
 ---
+
 
 ## 📬 Kontakt:
 - 📧 vladoliynyk2@gmail.com
