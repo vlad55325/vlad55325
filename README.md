@@ -43,7 +43,7 @@ Passionate about turning raw data into meaningful insights and building tools th
 
 ## 📫 Let's Connect
 <p>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/vladoliinyk21//"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://www.linkedin.com/in/vladoliinyk21/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
 <a href="mailto:vladoliyynk2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
