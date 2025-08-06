@@ -32,7 +32,6 @@
 
 ## 🧠 Aktualnie uczę się:
 - Machine Learning
-- Budowania portfolio pod rekrutację
 - Łączenia AI z analizą danych
 
 
