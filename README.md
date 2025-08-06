@@ -20,12 +20,7 @@
 
 ## 🔧 Projekty:
 
-| Projekt | Opis | Stack |
-|--------|------|-------|
- 🔎 Analiza danych sprzedaży (soon)
- 🤖 AI CSV Analizator (soon)
- 📊 Power BI Dashboard (soon)]
-
+Soon
 
 ---
 
