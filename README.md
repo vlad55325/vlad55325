@@ -28,10 +28,14 @@ Passionate about turning raw data into meaningful insights and building tools th
 ---
 
 ## 📂 Featured Projects
-- 📈 **Portfolio Analysis with NumPy** – [View Repo](https://github.com/vlad55325/portfolio-analysis-numpy)  
-  Simulation of a 3-asset portfolio, calculating returns, risk, and correlations.
-- 🔗 **Crypto Market Analyzer** *(coming soon)* – Tool for analyzing market trends and backtesting strategies.
 
+- 📈 **Portfolio Analysis with NumPy** – [View Repo](https://github.com/vlad55325/portfolio-analysis-numpy)
+
+  Simulation of a 3-asset portfolio, calculating returns, risk, and correlations.
+
+- 🔗 **Tesla Production vs Deliveries Analysis** – [View Repo](https://github.com/vlad55325/tesla-production-analysis)
+
+  Built regression models (Linear, Ridge, Lasso) using **Scikit-learn** to analyze production trends.
 ---
 
 ## 📚 Currently Learning
